@@ -1,0 +1,16 @@
+{
+    "name": "d.ruminski/bbb",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+        }
+    },
+    "require-dev": {
+        "phpstan/phpstan": "^1.11"
+    },
+    "config": {
+        "allow-plugins": {
+            "phpstan/extension-installer": true
+        }
+    }
+}
